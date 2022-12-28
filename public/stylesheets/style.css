@@ -1,0 +1,18 @@
+div {
+  border: 1px solid black;
+  width: 600px;
+  height: 150px;
+  overflow: auto;
+  padding: 5px;
+  background-color: lightyellow;
+}
+
+.verb {
+  font-weight: bold;
+  background-color: rgba(250, 185, 34);
+}
+
+.time {
+  font-size: .7em;
+  color: darkblue;
+}
